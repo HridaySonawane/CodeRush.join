@@ -8,6 +8,10 @@ A modern, sleek web application built with Next.js and Supabase that brings toge
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4-38b2ac?logo=tailwindcss)
 ![Supabase](https://img.shields.io/badge/Supabase-2.93.3-3ecf8e?logo=supabase)
 
+## 🌐 Live Demo
+
+**[Visit CodeRush Live](#)** _(Coming Soon - Add your deployed URL here)_
+
 ## ✨ Features
 
 - **Beautiful UI/UX**: Modern, responsive design with smooth animations powered by Framer Motion
