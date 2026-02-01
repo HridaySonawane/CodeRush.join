@@ -58,7 +58,7 @@ export default function Home() {
       {/* Subtle blue glow background */}
       <div className="fixed inset-0 overflow-hidden pointer-events-none">
         <div
-          className="absolute top-0 left-1/2 -translate-x-1/2 w-[800px] h-[600px] rounded-full opacity-20"
+          className="absolute top-0 left-1/2 -translate-x-1/2 w-200 h-150 rounded-full opacity-20"
           style={{
             background:
               "radial-gradient(ellipse, rgba(59,130,246,0.15) 0%, transparent 70%)",
@@ -169,7 +169,7 @@ export default function Home() {
             variants={item}
             className="text-6xl md:text-8xl lg:text-9xl font-bold tracking-tight text-glow"
           >
-            <span className="bg-gradient-to-r from-blue-400 via-blue-300 to-white bg-clip-text text-transparent">
+            <span className="bg-linear-to-r from-blue-400 via-blue-300 to-white bg-clip-text text-transparent">
               CodeRush X
             </span>
           </motion.h1>
