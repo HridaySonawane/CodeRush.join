@@ -10,7 +10,7 @@ A modern, sleek web application built with Next.js and Supabase that brings toge
 
 ## 🌐 Live Demo
 
-**[Visit CodeRush Live](https://code-rush-join.vercel.app/)** _(Coming Soon - Add your deployed URL here)_
+**[Visit CodeRush Live](https://code-rush-join.vercel.app/)**
 
 ## ✨ Features
 
